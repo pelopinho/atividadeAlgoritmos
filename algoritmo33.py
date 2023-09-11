@@ -1,0 +1,5 @@
+num1 = int(input("\n Entre com um número: "))
+num2 = int(input("\n Entre com outro número: "))
+print("Número 1: ",num1)
+print("Número 2: ",num2)
+print("\n")
